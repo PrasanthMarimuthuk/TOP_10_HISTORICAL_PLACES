@@ -1,0 +1,11 @@
+.mainly{
+   
+    color: rgb(10, 10, 22);
+    height: 75px;
+    top: 0px;
+    background-image: linear-gradient(130deg,rgb(24, 103, 24),rgb(100, 255, 100));
+    padding: 5px;}
+    
+#css{
+    color: rgb(255, 120, 10);
+}
